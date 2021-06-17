@@ -18,3 +18,4 @@ class StudentController(@Autowired val studentservice:StudentService)  {
         return  this.studentservice.getAllStudent()
     }
 }
+//continue
